@@ -37,19 +37,19 @@ Flags used in the command -
 
  **1.** Normal Behavior -
   
-   ![pacman -Rs command usage](pacman-rns-command.webp)
+   ![pacman -Rs command usage](/assets/micrologs/micrologs-01-dry-run-with-pacman-package-manager/pacman-rns-command.webp)
 
 <br>
 
-**2.** **-p** flag works well and shows a list of the final packages which will be removed. It only shows what **`Pacman -Rs`** is going to do instead of asking for deletion confirmation to proceed further. -
+**2.** **``-p``** flag works well and shows a list of the final packages which will be removed. It only shows what **`Pacman -Rs`** is going to do instead of asking for deletion confirmation to proceed further. -
 
-   ![pacman -p command usage along with -Rs flags, and everything works well](pacman-rs-p-command.webp)
+   ![pacman -p command usage along with -Rs flags, and everything works well](/assets/micrologs/micrologs-01-dry-run-with-pacman-package-manager/pacman-rs-p-command.webp)
 
 <br>
 
 **3.** **``-p``** doesn’t work when used with **``-n``** flag -
 
-   ![pacman -p command usage along with -n flag which returns an error](pacman-rns-p-command.webp)
+   ![pacman -p command usage along with -n flag which returns an error](/assets/micrologs/micrologs-01-dry-run-with-pacman-package-manager/pacman-rns-p-command.webp)
 
 ---
 
