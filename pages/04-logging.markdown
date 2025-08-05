@@ -4,9 +4,9 @@ title: Logging
 permalink: /logging/
 ---
 
-Don't mind this page for now hehe see ya.
-Read my wonderful blogs instead.
-Go.
+Don't mind this page for now hehe see ya. <br>
+Read my wonderful blogs instead. <br>
+Go. <br>
 Pls
 
 #1<br>

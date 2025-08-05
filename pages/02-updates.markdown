@@ -4,6 +4,8 @@ title: Updates
 permalink: /updates/
 ---
 
+Why don't you just read my posts instead. You probably won't be understanding anything here because I write them in the most broken english possible, just enough to remind me of which topics I need to post.
+
 ## Upcoming posts
 
 
@@ -33,3 +35,11 @@ What is element.style in inspect tools? Basically a way to add inline styles to 
 1. Cpp for cp. A good playlist but in Hindi. https://youtu.be/9S-b52CSCbQ?si=4z6BRY4EzP0SJNGG
 
 2. Odin project is good for learning web dev, though I first recommend just going and doing various tutorials from yt first in your first months and later brush up through odin project if you need. Web dev at starting is highly visual so if you just see what people are doing you will understand most of the things. Later like any other subject it too will become complex.
+
+<br>
+
+---
+
+<br>
+
+Did you really read all of them or just scroll past it?
