@@ -4,7 +4,7 @@ title: Process synchronization - An easy explanation
 date: 2025-07-10
 categories: os
 author: insane
-permalink: /posts/process-synchronization-an-easy-explanation
+permalink: /posts/process-synchronization-an-easy-explanation/
 tags:
   - os
   - processes

@@ -4,8 +4,12 @@ title: Learn C Programming - A Beginner’s Guide
 date: 2025-06-10
 categories: C
 author: insane
-permalink: /posts/learn-c-programming-a-beginners-guide
-tags: c guide tutorial programming
+permalink: /posts/learn-c-programming-a-beginners-guide/
+tags:
+  - c
+  - guide
+  - tutorial
+  - programming
 ---
 
 ![Thumbnail for the post](/assets/learn-c-programming-a-beginners-guide/thumbnail.webp)

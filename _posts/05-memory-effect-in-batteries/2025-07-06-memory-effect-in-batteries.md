@@ -4,8 +4,13 @@ title: Memory effect in batteries
 date: 2025-07-06
 categories: comptia batteries
 author: insane
-permalink: /posts/memory-effect-in-batteries
-tags: comptia batteries memory-effetc lazy-effect battery-effetc
+permalink: /posts/memory-effect-in-batteries/
+tags:
+  - comptia
+  - batteries
+  - memory-effetc
+  - lazy-effect
+  - battery-effetc
 ---
 
 ![Thumbnail for the post](/assets/memory-effect-in-batteries/thumbnail.webp)
@@ -34,7 +39,7 @@ Suppose a battery has a capacity of **1 lite**r. When you fill all **1 liter** i
 
 <br>
 
-** The most common fix**  
+**The most common fix**  
 It is often fixable by completely draining the battery to 0% and recharging it back to 100%. It is known as re calibrating the battery.  
 
 <br>

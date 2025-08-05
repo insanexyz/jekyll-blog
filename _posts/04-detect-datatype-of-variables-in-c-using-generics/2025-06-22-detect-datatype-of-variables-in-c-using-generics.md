@@ -4,8 +4,12 @@ title: Detect datatype of variables in C
 date: 2025-06-22
 categories: C
 author: insane
-permalink: /posts/detect-datatype-of-variables-using-generics
-tags: c programming typeof generics
+permalink: /posts/detect-datatype-of-variables-using-generics/
+tags:
+  - c
+  - programming
+  - typeof
+  - generics
 ---
 
 ![Thumbnail for the post](/assets/detect-datatype-of-variables-in-c-using-generics/thumbnail.webp)

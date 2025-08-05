@@ -4,8 +4,11 @@ title: Blender hardlight vs softlight in 2 min
 date: 2025-06-08
 categories: blender
 author: insane
-permalink: /posts/blender-hard-light-vs-soft-light-in-2min
-tags: blender lighting 3d
+permalink: /posts/blender-hard-light-vs-soft-light-in-2min/
+tags:
+  - blender
+  - lighting
+  - 3d
 ---
 
 ![Thumbnail for the post](/assets/blender-hardlight-vs-softlight-in-2min/thumbnail.webp)
