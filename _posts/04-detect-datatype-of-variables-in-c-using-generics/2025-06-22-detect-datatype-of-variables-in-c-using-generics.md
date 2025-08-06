@@ -14,10 +14,10 @@ tags:
 
 ![Thumbnail for the post](/assets/detect-datatype-of-variables-in-c-using-generics/thumbnail.webp)
 
-A simple Marco which uses generics in C to help you detect data type of any variable like you do with type() function in python :] .
+A simple Marco which uses **generics** in C to help you detect data type of any variable like you do with type() function in python :] .
 
 The code snippet contains examples on how to use it.  
-Extend it as much as you like!
+This can obviously be extended to include more types.
 
 ```c
 #include <stdio.h>

@@ -33,5 +33,5 @@ Similarly, when Program A is updating the record, the database should be locked 
   
 **Note:** Multiple programs that only want to read from the same database can do so simultaneously without locking each other out. This is because reading data doesn’t change anything, so one program’s reading doesn’t affect another’s.  
   
-Well that was all.
+End. <br>
 🦖

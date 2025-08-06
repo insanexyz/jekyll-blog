@@ -40,7 +40,7 @@ Flags used in the command -
 
 **Optional explanation with simple examples** -
 
-**``pacman -Rns`` :** To remove a package and its dependencies which are not required by any other installed package. 
+**``pacman -Rns`` :** To remove a package and its dependencies, along with the package's config files which are not required by any other installed package. 
 
 <br>
 
@@ -65,8 +65,6 @@ Flags used in the command -
 ---
 
 <br>
-
-That's it!
 
 Hope you like it.
 

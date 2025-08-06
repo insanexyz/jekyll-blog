@@ -21,6 +21,6 @@ tags:
 
 The guide is here: [https://hugo.insanelogs.xyz/posts/hugo-pipeline/](https://hugo.insanelogs.xyz/posts/hugo-pipeline/)  
   
-I made a test Hugo website myself using the same guide. So I decided to put the guide in the test Hugo website too.  
+I made a test Hugo website myself and then wrote a guide for the steps I did. And, I decided to put the guide in the test Hugo website itself.  
   
 🦖

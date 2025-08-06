@@ -132,6 +132,5 @@ Same thing happens when outline-offset property of box1 is increased.
 
 ---
 
-That’s all. Hope it clears the basic difference border and outline in CSS. I have tried to kept the example as simple and possible.  
-Thank you :]
+End. <br>
 🦖
