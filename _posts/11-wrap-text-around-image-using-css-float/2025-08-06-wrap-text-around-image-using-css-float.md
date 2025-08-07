@@ -24,7 +24,8 @@ Currently the text simply goes below the image. Default behavior of block level 
         <title>CSS Float</title>
         <style>
           <!-- 
-            I have not added the css for adding borders and all as it is very                simple to implement, and will make the code long for no reason.
+            I have not added the css for adding borders and all as it is very 
+            simple to implement, and will make the code long for no reason.
           -->
         <style>
     </head>
@@ -46,14 +47,14 @@ Now to make the text wrap around the image, add `float: left` to `<img>`. The im
     <head>
         <title>CSS Float</title>
         <style>
-			.box img {
-				float: left
-			}
+            .box img {
+                float: left
+            }
         <style>
     </head>
     <body>
         <div class="box">
-            <img src="guts.jpg" width="230px" />
+	        <img src="guts.jpg" width="230px" />
             <p> ... </p>
         </div>
     </body>
@@ -69,10 +70,10 @@ You will notice that image is actually floating inside `<p>`'s border. Add some 
     <head>
         <title>CSS Float</title>
         <style>
-			.box img {
-				float: left;
-				margin: 10px;
-			}
+            .box img {
+                float: left;
+                margin: 10px;
+            }
         <style>
     </head>
     <body>
@@ -93,14 +94,14 @@ The image being big overflows `<div class='box'>`  border. To fix it add `displa
     <head>
         <title>CSS Float</title>
         <style>
-			.box img {
-				float: left;
-				margin: 10px;
-			}
-			
-			.box {
-				display: flow-root;
-			}
+            .box img {
+    			float: left;
+    			margin: 10px;
+    		}
+    		
+            .box {
+                display: flow-root;
+            }
         <style>
     </head>
     <body>
