@@ -87,7 +87,7 @@ You will notice that image is actually floating inside `<p>`'s border. Add some 
 
 ![Margin of 10px is added to the image element to depict it is floating inside paragraph element's border.](/assets/wrap-text-around-image-using-css-float/css-float.webp)
 
-The image being big overflows `<div class='box'>`  border. To fix it add `display: flow-root` to the `<div class='box'>` .
+The image being big overflows `<div class='box'>`  border. One simple way to fix it is to add `display: flow-root` to the `<div class='box'>` .
 
 ```html
 <html>
@@ -116,5 +116,7 @@ The image being big overflows `<div class='box'>`  border. To fix it add `displa
 
 Now add some more text to `<p>` to see more wrapping.
 ![More text added to the paragraph element to show proper wrapping of its text around the image.](/assets/wrap-text-around-image-using-css-float/more-text.webp)
+
+Now a days we use grid or flexbox to achieve the same.
 
 :p
