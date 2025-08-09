@@ -1,6 +1,6 @@
 ---
 layout: post
-title: basic-git-commands
+title: Basic git commands
 date: 2025-08-09
 categories: git
 author: insane
