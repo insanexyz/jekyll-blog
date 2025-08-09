@@ -11,7 +11,8 @@ tags:
   - github
   - post-13
 ---
-No thumbnail `:[`
+
+![Thumbnail for the post](/assets/basic-git-commands/thumbnail.webp)
 
 <br>
 
