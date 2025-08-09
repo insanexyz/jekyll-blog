@@ -12,6 +12,7 @@ tags:
   - profile-card
   - post-12
 ---
+
 ![Thumbnail for the post](/assets/simple-profile-card-using-basic-css/thumbnail.webp)
 
 <br>
