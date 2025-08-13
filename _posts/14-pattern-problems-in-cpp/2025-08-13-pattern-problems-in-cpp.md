@@ -4,7 +4,7 @@ title: Pattern problems in C++
 date: 2025-08-13
 categories: cpp patterns
 author: insane
-permalink: /posts/pattern-problems-in-cpp
+permalink: /posts/pattern-problems-in-cpp/
 tags:
   - cpp
   - patterns
