@@ -69,7 +69,7 @@ git checkout -f # To match the contents of all modified files to their last comm
 
 <br>
 
-6\.  Show history of commits
+6\.  Show history of commits.
 ```bash
 git log
 
@@ -125,14 +125,14 @@ git commit -m "remove filename from being tracked"
 12\. Example .gitignore. The effects of gitignore file is immediate.
     If the file you want to ignore is already being tracked then writing it down in gitignore won't work. Simply ``git rm --cache`` the file and then it will be ignored by the git.
 ```bash
-*.log       # ignore log files present in any subdir
-/*.log      # ignore log files present in root of the working directory
-somefolder/ # to ignore some folder
+*.log       # ignore log files present in any subdir.
+/*.log      # ignore log files present in root of the working directory.
+somefolder/ # to ignore some folder.
 ```
 
 <br>
 
-13\. View all branches
+13\. View all branches.
 ```bash
 git branch # By default their will be a master or main branch depening on your git global configs.
 ```
@@ -148,27 +148,27 @@ If you created it from `main` branch and it had 5 commits. Then this new branch 
 
 <br>
 
-15\. Switch branch
+15\. Switch branch.
 ```bash
 git checkout <branch-name>
 ```
 
 <br>
 
-16\. Create and switch to that branch in one command
+16\. Create and switch to that branch in one command.
 ```bash
 git checkout -b branchmain
 ```
 
 <br>
 
-17\. Merge ``branch2`` with ``branch1``
+17\. Merge ``branch2`` with ``branch1``.
 ```bash
 git checkout <branch2>
 git merge <branch1>
 ```
 
-Now `branch2` has the changes made in `branch1`
+Now `branch2` has the changes made in `branch1`.
 
 <br>
 
@@ -190,21 +190,21 @@ git remote -v
 
 <br>
 
-20\. Change url a remote (like origin) points to. `Remote name` is simply the name you associated your remote url with like `origin`
+20\. Change url a remote (like origin) points to. `Remote name` is simply the name you associated your remote url with like `origin`.
 ```bash
 git remote set-url <remote-name> <new-url>
 ```
 
 <br>
 
-21\. Remove a remote repo link like `origin`
+21\. Remove a remote repo link like `origin`.
 ```bash
 git remote remove origin # Replace origin with whatever you named your remote repo.
 ```
 
 <br>
 
-22\. rename a branch
+22\. Rename a branch.
 ```bash
 # Switch to the branch you want to rename.
 git branch <branch-to-rename>
@@ -215,31 +215,31 @@ git branch -M <new-branch-name>
 
 <br>
 
-23\. Set upstream for a branch
+23\. Set upstream for a branch.
 ```bash
 git push -u origin main
 # Now if you are on main branch, just writing git push would push main branch to origin.
-# Won't work if you change branch
+# Won't work if you change branch.
 ```
 
 <br>
 
-24\. How to push some other branch than `main`
+24\. How to push some other branch than `main`.
 ```bash
 git push origin <desired-branch-to-push>
 ```
 
 <br>
 
-25\. Clone a remote repo
+25\. Clone a remote repo.
 ```bash
-git clone <repo-url> # Will clone the repo contents into a folder named after the repo name
-git clone <repo-url> <folder-name> # Will clone the repo contents into <folder-name> folder
+git clone <repo-url> # Will clone the repo contents into a folder named after the repo name.
+git clone <repo-url> <folder-name> # Will clone the repo contents into <folder-name> folder.
 ```
 
 <br>
 
-26\. Set default branch as `main` globally
+26\. Set default branch as `main` globally.
 ```bash
 git config --global init.defaultBranch main
 ```
