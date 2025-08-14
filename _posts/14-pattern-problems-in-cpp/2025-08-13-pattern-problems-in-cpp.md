@@ -771,6 +771,7 @@ Pattern 19 -
 **An attempt to explain my approach to solve these problems through this pattern 19**
 
 Method 1 approach -
+
 Idea is to first divide entire pattern into two halves A and B -
 ![Pattern problems in C++ illustration for pattern 19 method 1](/assets/pattern-problems-in-cpp/first-half-second-half.webp)
 
@@ -867,8 +868,10 @@ See the following pattern and then simply write the code for stars, then spaces 
 ![Pattern problems in C++ illustration for pattern 19 method 2](/assets/pattern-problems-in-cpp/method-02.webp)
 
 Another way to visualize (left side is code from method 1 and right side is code from method 2) -
-![Pattern problems in C++ illustration for pattern 19 method 2](/assets/pattern-problems-in-cpp/first-half-spaces-combined.webp)
+![Pattern problems in C++ illustration for pattern 19 method 2](/assets/pattern-problems-in-cpp/first-half-spaces-combined.webp) 
+
 ![Pattern problems in C++ illustration for pattern 19 method 2](/assets/pattern-problems-in-cpp/second-half-spaces-combined.webp)
+
 See how ``j < i condition was written two times in half A`` which got combined to ``j < 2 * i``. Same for half B.
 
 ```cpp
@@ -1025,7 +1028,7 @@ Pattern 21 -
 ```
 
 ```cpp
-void print_21(int n) {
+void print_pattern_21(int n) {
     for (int i = 0; i < n; i++) {
         // First and last row
         if ((i == 0) || (i == n - 1)) {
@@ -1045,7 +1048,7 @@ void print_21(int n) {
 ```
 
 ```cpp
-void print_21(int n) {
+void print_pattern_21(int n) {
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {
             // Fill with stars only if i or j is in boundary
@@ -1080,7 +1083,7 @@ Pattern 22 -
 ```
 
 ```cpp
-void print_22(int n) {
+void print_pattern_22(int n) {
     for (int i = 0; i < 2 * n - 1; i++) {
         for (int j = 0; j < 2 * n - 1; j++) {
             // Calculate distances
