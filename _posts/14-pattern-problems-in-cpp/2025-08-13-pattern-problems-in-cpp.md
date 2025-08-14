@@ -1105,6 +1105,34 @@ void print_pattern_22(int n) {
 }
 ```
 
+```cpp
+void print_pattern_22(int n) {
+    for (int i = 0; i < 2 * n - 1; i++) {
+        for (int j = 0; j < 2 * n - 1; j++) {
+            int top_dist = i;
+            int bottom_dist = (2 * n - 1) - i - 1;
+            int left_dist = j;
+            int right_dist = (2 * n  - 1) - j - 1;
+            
+            // Before subtracting n
+            // 0 0 0 0 0 0 0 0 0
+            // 0 1 1 1 1 1 1 1 0
+            // 0 1 2 2 2 2 2 1 0
+            // 0 1 2 3 3 3 2 1 0
+            // 0 1 2 3 4 3 2 1 0
+            // 0 1 2 3 3 3 2 1 0
+            // 0 1 2 2 2 2 2 1 0
+            // 0 1 1 1 1 1 1 1 0
+            // 0 0 0 0 0 0 0 0 0
+            // So if we subtract n from each cell we get the desired pattern
+                
+            cout << n - min(min(top_dist, bottom_dist), min(left_dist, right_dist))<< " ";
+        }
+        cout << endl;
+    }
+}
+```
+
 <br>
 
 ---
