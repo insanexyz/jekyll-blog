@@ -29,6 +29,12 @@ body {
 }
 
 
+::selection {
+    background-color: #FAEB92;
+    color: #000000;
+}
+
+
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -148,7 +154,8 @@ blockquote {
  */
 pre,
 code {
-  @include relative-font-size(0.9375);
+  @include relative-font-size(0.6375);
+  font-family: "Jetbrains Mono";
   border: 1px solid $grey-color-dark;
   border-radius: 3px;
   background-color: #000000;
