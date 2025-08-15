@@ -9,6 +9,7 @@ tags:
   - blender
   - lighting
   - 3d
+  - post-01
 ---
 
 ![Thumbnail for the post](/assets/blender-hardlight-vs-softlight-in-2min/thumbnail.webp)

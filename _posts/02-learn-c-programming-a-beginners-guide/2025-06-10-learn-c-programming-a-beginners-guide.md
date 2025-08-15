@@ -10,6 +10,7 @@ tags:
   - guide
   - tutorial
   - programming
+  - post-02
 ---
 
 ![Thumbnail for the post](/assets/learn-c-programming-a-beginners-guide/thumbnail.webp)

@@ -10,6 +10,7 @@ tags:
   - cli
   - system
   - commands
+  - post-09
 ---
 
 ![Thumbnail for the post](/assets/linux-cli/linux-cli-system-information-commands-1/thumbnail.webp)

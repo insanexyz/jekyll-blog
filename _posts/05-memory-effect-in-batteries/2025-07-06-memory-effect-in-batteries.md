@@ -8,9 +8,10 @@ permalink: /posts/memory-effect-in-batteries/
 tags:
   - comptia
   - batteries
-  - memory-effetc
+  - memory-effect
   - lazy-effect
-  - battery-effetc
+  - battery-effect
+  - post-05
 ---
 
 ![Thumbnail for the post](/assets/memory-effect-in-batteries/thumbnail.webp)

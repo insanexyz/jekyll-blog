@@ -11,6 +11,7 @@ tags:
   - ssg
   - static-site
   - go
+  - post-10
 ---
 
 ![Thumbnail for the post](/assets/setup-hugo-obsidian-git-blog-pipeline-in-arch-linux/thumbnail.webp)

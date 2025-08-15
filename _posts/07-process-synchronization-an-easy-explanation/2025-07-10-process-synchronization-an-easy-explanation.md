@@ -9,6 +9,7 @@ tags:
   - os
   - processes
   - synchronization
+  - post-07
 ---
 
 ![Thumbnail for the post](/assets/process-synchronization-an-easy-explanation/thumbnail.webp)

@@ -10,6 +10,7 @@ tags:
   - programming
   - typeof
   - generics
+  - post-04
 ---
 
 ![Thumbnail for the post](/assets/detect-datatype-of-variables-in-c-using-generics/thumbnail.webp)

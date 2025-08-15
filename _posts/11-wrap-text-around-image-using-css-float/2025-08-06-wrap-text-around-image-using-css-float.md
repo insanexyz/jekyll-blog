@@ -10,6 +10,7 @@ tags:
   - float
   - html
   - webdev
+  - post-11
 ---
 
 ![Thumbnail for the post](/assets/wrap-text-around-image-using-css-float/thumbnail.webp)

@@ -10,6 +10,7 @@ tags:
   - css
   - border
   - outline
+  - post-08
 ---
 
 ![Thumbnail for the post](/assets/border-vs-outline-in-css-a-simple-explanation/thumbnail.webp)

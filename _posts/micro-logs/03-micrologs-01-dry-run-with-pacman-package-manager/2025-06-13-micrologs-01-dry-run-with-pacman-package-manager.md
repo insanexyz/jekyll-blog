@@ -9,6 +9,7 @@ tags:
   - arch
   - linux
   - micrologs
+  - post-03
 ---
 
 ![Thumbnail for the post](/assets/micrologs/micrologs-01-dry-run-with-pacman-package-manager/thumbnail-02.webp)
