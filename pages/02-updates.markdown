@@ -13,16 +13,14 @@ Why don't you just read my posts instead. You probably won't be understanding an
 
 2. Calculations in Cpp happens in higher datatypes (double > float > long long int, long int, int, characters). Examples (Upcoming 1)
 
-3. Need for int Class :: static_variable = some value outside the class. Basically to define it and give memory location. Same doesn’t need to be done with normal class variables as they are defined when objects are created. (Upcoming 2)
+3. Difference between vmin and vmax in css. vmin is just whatever is min between height and width of a device, and same applied for vmax but instead of min it goes for max. (Upcoming 3)
 
-4. Difference between vmin and vmax in css. vmin is just whatever is min between height and width of a device, and same applied for vmax but instead of min it goes for max. (Upcoming 3)
+4. Why use min/max-height/width instead of just width and height? Basically just a responsive unit nothing more. Simply width and height is fixed while other is not if used correctly.
 
-5. Why use min/max-height/width instead of just width and height? Basically just a responsive unit nothing more. Simply width and height is fixed while other is not if used correctly.
-
-6. What are user-agents styles in css. Styles applied by browsers basically :).
+5. What are user-agents styles in css. Styles applied by browsers basically :).
 What is element.style in inspect tools? Basically a way to add inline styles to an element.
 
-7. Explain what is docker using a python program which uses 2-3 libraries as dependencies. Then making a container which contains the dependencies to run the python program.
+6. Explain what is docker using a python program which uses 2-3 libraries as dependencies. Then making a container which contains the dependencies to run the python program.
 
 <br>
 
