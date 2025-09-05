@@ -13,7 +13,7 @@ tags:
   - post-10
 ---
 
-![Thumbnail for the post](/assets/simple-profile-card-using-basic-css/thumbnail.webp)
+![Thumbnail for the post](/assets/images/simple-profile-card-using-basic-css/thumbnail.webp)
 
 <br>
 
@@ -130,4 +130,4 @@ Code -
 </html>
 ```
 
-![](/assets/simple-profile-card-using-basic-css/profile-card.webp)
+![](/assets/images/simple-profile-card-using-basic-css/profile-card.webp)

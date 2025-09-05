@@ -13,7 +13,7 @@ tags:
   - post-04
 ---
 
-![Thumbnail for the post](/assets/detect-datatype-of-variables-in-c-using-generics/thumbnail.webp)
+![Thumbnail for the post](/assets/images/detect-datatype-of-variables-in-c-using-generics/thumbnail.webp)
 
 A simple Marco which uses **generics** in C to help you detect data type of any variable like you do with type() function in python :] .
 

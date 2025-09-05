@@ -14,7 +14,7 @@ tags:
   - post-8
 ---
 
-![Thumbnail for the post](/assets/setup-hugo-obsidian-git-blog-pipeline-in-arch-linux/thumbnail.webp)
+![Thumbnail for the post](/assets/images/setup-hugo-obsidian-git-blog-pipeline-in-arch-linux/thumbnail.webp)
 
 ## Insane Hugo Pipeline for Arch Linux
 

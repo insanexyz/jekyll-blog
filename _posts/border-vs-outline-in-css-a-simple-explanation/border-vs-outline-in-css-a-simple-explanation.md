@@ -13,7 +13,7 @@ tags:
   - post-08
 ---
 
-![Thumbnail for the post](/assets/border-vs-outline-in-css-a-simple-explanation/thumbnail.webp)
+![Thumbnail for the post](/assets/images/border-vs-outline-in-css-a-simple-explanation/thumbnail.webp)
 
 Border and outline are two ways to add borders around an element in HTML/CSS.  
 But they don’t behave the same.
@@ -55,7 +55,7 @@ Here I have created two ``<div>s`` box1 and box2 having a space (margin) of 10px
     </body>
 </html>
 ```
-![Two divs box 1 and box 2. Box 1 has 1px solid black outline and box 2 has 1px solid black border. Both have a space (margin) of 10px between them.](/assets/border-vs-outline-in-css-a-simple-explanation/border-vs-outline-default-with-marker.webp)
+![Two divs box 1 and box 2. Box 1 has 1px solid black outline and box 2 has 1px solid black border. Both have a space (margin) of 10px between them.](/assets/images/border-vs-outline-in-css-a-simple-explanation/border-vs-outline-default-with-marker.webp)
 
 ---
 
@@ -79,7 +79,7 @@ Here I increased the border size to 50px and space between the two boxes is stil
       }
 </style>
 ```
-![Two divs box 1 and box 2. Box 1 has 1 px solid black outline. Box 2 has 50 px solid black border. The space of 10 px between them is retained.](/assets/border-vs-outline-in-css-a-simple-explanation/border-size-increased-with-marker.webp)
+![Two divs box 1 and box 2. Box 1 has 1 px solid black outline. Box 2 has 50 px solid black border. The space of 10 px between them is retained.](/assets/images/border-vs-outline-in-css-a-simple-explanation/border-size-increased-with-marker.webp)
 
 ---
 
@@ -102,7 +102,7 @@ But when I increase the **outline** size in box1 to 15px, it simply ignores that
       }
 </style>
 ```
-![Two divs box 1 and box 2. Box 1 has 15px solid black outline. Box 2 has 1px solid black border. The space of 10px between them is not retained.](/assets/border-vs-outline-in-css-a-simple-explanation/outline-size-increased.webp)
+![Two divs box 1 and box 2. Box 1 has 15px solid black outline. Box 2 has 1px solid black border. The space of 10px between them is not retained.](/assets/images/border-vs-outline-in-css-a-simple-explanation/outline-size-increased.webp)
 
 ---
 
@@ -129,7 +129,7 @@ Same thing happens when outline-offset property of box1 is increased.
       }
 </style>
 ```
-![Two divs box 1 and box 2. Box 1 has 1px solid black outline and 15px outline-offset. Box 2 has 1px solid black border. The space of 10 px between them is not retained](/assets/border-vs-outline-in-css-a-simple-explanation/outline-offset-increased.webp)
+![Two divs box 1 and box 2. Box 1 has 1px solid black outline and 15px outline-offset. Box 2 has 1px solid black border. The space of 10 px between them is not retained](/assets/images/border-vs-outline-in-css-a-simple-explanation/outline-offset-increased.webp)
 
 ---
 

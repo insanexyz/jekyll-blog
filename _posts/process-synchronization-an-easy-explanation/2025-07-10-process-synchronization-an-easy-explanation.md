@@ -12,7 +12,7 @@ tags:
   - post-06
 ---
 
-![Thumbnail for the post](/assets/process-synchronization-an-easy-explanation/thumbnail.webp)
+![Thumbnail for the post](/assets/images/process-synchronization-an-easy-explanation/thumbnail.webp)
 
 **Process Synchronization** is simply about running multiple processes that are accessing the same common resource (or resources) in a specific, controlled order so that everything goes smoothly and there’s no conflict.
 
@@ -24,7 +24,7 @@ Imagine we have a database and two programs – Program A and Program B.
 - Program A is responsible for adding/ updating (writing) a record to the database.
 - Program B is responsible for reading a record from the database.
 
-![Diagram illustrating a database with 5 rows and two process A and B. Process A wants to update record 5 while at the same time process B wants to read record 5. This makes the database sad as these are two conflicting types of operations being performed at the same time](/assets/process-synchronization-an-easy-explanation/diagram.webp)
+![Diagram illustrating a database with 5 rows and two process A and B. Process A wants to update record 5 while at the same time process B wants to read record 5. This makes the database sad as these are two conflicting types of operations being performed at the same time](/assets/images/process-synchronization-an-easy-explanation/diagram.webp)
 
 Now, there are 5 records in the database. Program B wants to read record 5, while Program A wants to edit and update record 5. If both programs attempt to access the record simultaneously, it could lead to problems, such as Program B reading a half-updated record.  
   

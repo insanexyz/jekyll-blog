@@ -13,7 +13,7 @@ tags:
   - post-02
 ---
 
-![Thumbnail for the post](/assets/learn-c-programming-a-beginners-guide/thumbnail.webp)
+![Thumbnail for the post](/assets/images/learn-c-programming-a-beginners-guide/thumbnail.webp)
 
 A simple guide to learn C programming by your legendary *Insane*.
 

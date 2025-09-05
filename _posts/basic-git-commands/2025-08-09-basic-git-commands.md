@@ -12,7 +12,7 @@ tags:
   - post-11
 ---
 
-![Thumbnail for the post](/assets/basic-git-commands/thumbnail.webp)
+![Thumbnail for the post](/assets/images/basic-git-commands/thumbnail.webp)
 
 <br>
 
@@ -270,10 +270,10 @@ git config --global init.defaultBranch main
 ### Lol diagrams xD?
 
 #### Git workflow
-![Git workflow diagram](/assets/basic-git-commands/git-diagram.webp)
+![Git workflow diagram](/assets/images/images/basic-git-commands/git-diagram.webp)
 
 #### Git status
-![Git status](/assets/basic-git-commands/git-status-01.webp)
+![Git status](/assets/images/basic-git-commands/git-status-01.webp)
 
 <br>
 

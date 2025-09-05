@@ -13,7 +13,7 @@ tags:
   - post-12
 ---
 
-![Thumbnail for the post](/assets/pattern-problems-in-cpp/thumbnail.webp)
+![Thumbnail for the post](/assets/images/pattern-problems-in-cpp/thumbnail.webp)
 
 <br>
 
@@ -773,13 +773,13 @@ Pattern 19 -
 Method 1 approach -
 
 Idea is to first divide entire pattern into two halves A and B -
-![Pattern problems in C++ illustration for pattern 19 method 1](/assets/pattern-problems-in-cpp/first-half-second-half.webp)
+![Pattern problems in C++ illustration for pattern 19 method 1](/assets/images/pattern-problems-in-cpp/first-half-second-half.webp)
 
 Then subdivide the halves A and B into its quadrants (I, II, III, IV) -
-![Pattern problems in C++ illustration for pattern 19 method 1](/assets/pattern-problems-in-cpp/quadrants.webp)
+![Pattern problems in C++ illustration for pattern 19 method 1](/assets/images/pattern-problems-in-cpp/quadrants.webp)
 
 Take half A and print its two quadrants (I and II) lines simultaneously -
-![Pattern problems in C++ illustration for pattern 19 method 1](/assets/pattern-problems-in-cpp/print-simul.webp)
+![Pattern problems in C++ illustration for pattern 19 method 1](/assets/images/pattern-problems-in-cpp/print-simul.webp)
 
 For this just write the code to print pattern in quadrant II, then write the code to print pattern in quadrant I and then put a ``cout << endl`` in the end.
 
@@ -862,15 +862,15 @@ void print_pattern_19(int n) {
 Method 2 approach -
 
 Divide the pattern into two halves A and B -
-![Pattern problems in C++ illustration for pattern 19 method 2](/assets/pattern-problems-in-cpp/first-half-second-half-02.webp)
+![Pattern problems in C++ illustration for pattern 19 method 2](/assets/images/pattern-problems-in-cpp/first-half-second-half-02.webp)
 
 See the following pattern and then simply write the code for stars, then spaces and then again stars for both halves (first half shown here)
-![Pattern problems in C++ illustration for pattern 19 method 2](/assets/pattern-problems-in-cpp/method-02.webp)
+![Pattern problems in C++ illustration for pattern 19 method 2](/assets/images/pattern-problems-in-cpp/method-02.webp)
 
 Another way to visualize (left side is code from method 1 and right side is code from method 2) -
-![Pattern problems in C++ illustration for pattern 19 method 2](/assets/pattern-problems-in-cpp/first-half-spaces-combined.webp) 
+![Pattern problems in C++ illustration for pattern 19 method 2](/assets/images/pattern-problems-in-cpp/first-half-spaces-combined.webp) 
 
-![Pattern problems in C++ illustration for pattern 19 method 2](/assets/pattern-problems-in-cpp/second-half-spaces-combined.webp)
+![Pattern problems in C++ illustration for pattern 19 method 2](/assets/images/pattern-problems-in-cpp/second-half-spaces-combined.webp)
 
 See how ``j < i condition was written two times in half A`` which got combined to ``j < 2 * i``. Same for half B.
 

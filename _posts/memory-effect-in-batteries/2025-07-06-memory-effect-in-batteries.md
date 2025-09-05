@@ -14,7 +14,7 @@ tags:
   - post-05
 ---
 
-![Thumbnail for the post](/assets/memory-effect-in-batteries/thumbnail.webp)
+![Thumbnail for the post](/assets/images/memory-effect-in-batteries/thumbnail.webp)
 
 **Memory effect** is also known as **battery effect**, **lazy battery effect**, or **battery memory**. It an issue observed mostly in nickel-cadmium batteries (Ni-Cd) and to some extent Nickel-Metal Hydride (NiMH) batteries.  
   
@@ -34,7 +34,7 @@ Let us understand it with a **liters analogy**.
   
 Suppose a battery has a capacity of **1 lite**r. When you fill all **1 liter** it gets fully charged and shows **100%**. But over time due to partial charging the battery forgets this capacity and thinks **500ml** is its full capacity. So next time when you fill it up to **500ml** only, the battery will think it has reached its full capacity. It won’t accept any more water (charge). It will thus show **100%** even though it actually isn’t.
 
-![Diagram illustrating my simple analogy](/assets/memory-effect-in-batteries/diagram.webp)
+![Diagram illustrating my simple analogy](/assets/images/memory-effect-in-batteries/diagram.webp)
 
 **Please note** this is a very simplified analogy just to get the gist of the concept.
 
